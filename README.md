@@ -2,11 +2,17 @@
 ## ✏️ Información
 
 - **Nombre:** Astrit Cetzal
-## Proyecto #1: Tic-Tac-Toe/tres en raya en consola
+  
+## Índice
+## Índice
+* [Ir al juego de Tic-Tac-Toe](#1-tic-tac-toe-en-consola)
+* [Ir al juego de Buscatesoros](#2-buscatesoros-con-python)
+
+## 1. Tic-Tac-Toe en Consola
 
   
 ### 📄 Descripcion
-Es una simulcaion del juego que muchos conocemos como 'gato' usando **x** y **o**, aqui gana aquel que acomplete una secuencia de **x** o **o**
+Es una simulcaion del juego que muchos conocemos como 'gato' usando **X** y **O**, aqui gana aquel que acomplete una secuencia de **X** o **O**
 
 ### 🎰 Reglas del juego 
 - La maquina juega con las **X** mientras que el usuario con las **O**
@@ -46,7 +52,8 @@ Este proyecto es parte de las actividades académicas del curso Fundamentos de P
 
 ---
 
-## Proyecto 2: BuscaTesoros
+## 2. Buscatesoros con Python
+
 ### 📄 Descripcion
 El objetivo aqui es encontrar el tesoro con solo 3 oportunidades, este proyecto lo realicé con el fin de poner en practica mis conocimientos basico en python.
 
