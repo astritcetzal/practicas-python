@@ -1,5 +1,5 @@
 # practicas-python
-## 👨‍💻 Información
+## ✏️ Información
 
 - **Nombre:** Astrit Cetzal
 ## Proyecto #1: Tic-Tac-Toe/tres en raya en consola
@@ -65,7 +65,7 @@ El objetivo aqui es encontrar el tesoro con solo 3 oportunidades, este proyecto 
  
 ### 🚀 Como ejecutarlo
 1. Tener python 3 intalasdo
-2. Descargar el archivo "gato.py"
+2. Descargar el archivo "MapaTesoro.py"
 3. Ejecutar ya sea en IDLE
 
 ### 👀 Vista previa
