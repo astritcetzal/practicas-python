@@ -14,6 +14,47 @@ Es una simulcaion del juego que muchos conocemos como 'gato' usando **x** y **o*
 - El tablero es de 3 x 3 y a excepcion del 5 se puede elegir cualquiera de los otros numeros
 - La maquina eleige de manera aleatoria las demas posiciones para sus **X**
 - El juego termina cuando alguien logra 3 en raya.
+ 
+### 🚀 Como ejecutarlo
+1. Tener python 3 intalasdo
+2. Descargar el archivo "gato.py"
+3. Ejecutar ya sea en IDLE
+
+### 👀 Vista previa
+````text
++-------+-------+-------+
+|       |       |       |
+|   O   |   2   |   X   |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|   4   |   X   |   6   |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|   7   |   8   |   9   |
+|       |       |       |
++-------+-------+-------+
+Ingresa tu movimiento: 7
+````
+
+-----
+
+## 📄 Licencia
+
+Este proyecto es parte de las actividades académicas del curso Fundamentos de Python 1 de Cisco Networking Academy.
+
+---
+
+## Proyecto 2: BuscaTesoros
+### 📄 Descripcion
+El objetivo aqui es encontrar el tesoro con solo 3 oportunidades, este proyecto lo realicé con el fin de poner en practica mis conocimientos basico en python.
+
+### 🎰 Reglas del juego 
+-  Solo se tiene 3 oportunidades
+-  Si busca en que casilla se encuentra el tesoro entonces ganas
+-  Si encuentras la casilla trampa pierdes inmediatamente
+-  Si en 3 oportunidades no consigues la victoria, entonces pierdes.
 
 ### 🛠️ Lo aplicado
   - Python
@@ -31,31 +72,56 @@ Es una simulcaion del juego que muchos conocemos como 'gato' usando **x** y **o*
 ````text
 +-------+-------+-------+
 |       |       |       |
-|   1   |   2   |   3   |
+|    1  |    2  |    3  |
 |       |       |       |
 +-------+-------+-------+
 |       |       |       |
-|   4   |   X   |   6   |
+|    4  |    5  |    6  |
 |       |       |       |
 +-------+-------+-------+
 |       |       |       |
-|   7   |   8   |   9   |
+|    7  |    8  |    9  |
 |       |       |       |
 +-------+-------+-------+
-Ingresa tu movimiento:
+Ingresa un movimiento: 3
++-------+-------+-------+
+|       |       |       |
+|    1  |    2  |    O  |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|    4  |    5  |    6  |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|    7  |    8  |    9  |
+|       |       |       |
++-------+-------+-------+
+¡Continua!
+Ingresa un movimiento: 9
++-------+-------+-------+
+|       |       |       |
+|    1  |    2  |    O  |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|    4  |    5  |    6  |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|    7  |    8  |    9  |
+|       |       |       |
++-------+-------+-------+
+¡Has ganado, el juego ha terminado! El tesoro está en:  9
 ````
 
 
------
-
-## 📄 Licencia
-
-Este proyecto es parte de las actividades académicas del curso Fundamentos de Python 1 de Cisco Networking Academy.
-
----
-
-## Proyecto 2: 
-
+### 🛠️ Lo aplicado en ambos juegos
+  - Python
+  - random (randrange) importando ``from random import randrange``
+  - Listas bidimensionales (matrices)
+  - Ciclos while y recursividad (if)
+  - Entrada por consola
 
 ## 🤝 Agradecimientos
 
@@ -74,7 +140,7 @@ Este proyecto es parte de las actividades académicas del curso Fundamentos de P
 
 ## 📄 Licencia
 
-Este proyecto es parte de las actividades académicas del curso Fundamentos de Python 1 de Cisco Networking Academy.
+Este proyecto se lo solicite a una IA que me pusiera de tarea un ejercicio similar al proyecto 1 para que yo pudiera praticar más.
 
 ---
 
