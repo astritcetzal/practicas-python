@@ -155,6 +155,6 @@ Este proyecto se lo solicite a una IA que me pusiera de tarea un ejercicio simil
 
 **⭐ Si te gustó este proyecto, dale una estrella ⭐**
 
-Hecho con 💗 por [Astrit Cetzal] - 2025
+Hecho con 💗 por [**Astrit Cetzal**] - 2026
 
 </div>
