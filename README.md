@@ -2,8 +2,7 @@
 ## ✏️ Información
 
 - **Nombre:** Astrit Cetzal
-  
-## Índice
+
 ## Índice
 * [Ir al juego de Tic-Tac-Toe](#1-tic-tac-toe-en-consola)
 * [Ir al juego de Buscatesoros](#2-buscatesoros-con-python)
