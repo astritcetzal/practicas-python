@@ -8,6 +8,10 @@
 * [Ir al juego de Tic-Tac-Toe](#1-tic-tac-toe-en-consola)
 * [Ir al juego de Buscatesoros](#2-buscatesoros-con-python)
 
+ ## Otros proyectos relacionados a python:
+
+* [Algoritmo-Dijkstra](https://github.com/mateomartin21/Algoritmo-Dijkstra.git)
+*  [Búsqueda en Profundidad](https://github.com/sunev-venus/Estructura-de-datos-pr.Unidad-2.git)
 ## 1. Tic-Tac-Toe en Consola
 
   
